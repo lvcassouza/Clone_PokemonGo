@@ -68,14 +68,11 @@
 		BE35D6A928DD3960005E00BB /* Pokemon Go */ = {
 			isa = PBXGroup;
 			children = (
+				BE73B40629CB97B9006AA9BE /* ViewModel */,
+				BE73B40529CB97B2006AA9BE /* Model */,
+				BE73B40429CB97A7006AA9BE /* View */,
 				BE35D6AA28DD3960005E00BB /* AppDelegate.swift */,
 				BE35D6AC28DD3960005E00BB /* SceneDelegate.swift */,
-				BE35D6AE28DD3960005E00BB /* ViewController.swift */,
-				BE35D6C628DE2749005E00BB /* PokemonAnotacao.swift */,
-				BE35D6C428DDFEB2005E00BB /* CoreDataPokemon.swift */,
-				BE35D6C828DE2FFA005E00BB /* PokeAgendaViewController.swift */,
-				BE35D6B028DD3960005E00BB /* Main.storyboard */,
-				BE35D6B828DD3961005E00BB /* LaunchScreen.storyboard */,
 				BE35D6B628DD3961005E00BB /* Assets.xcassets */,
 				BE35D6BB28DD3961005E00BB /* Info.plist */,
 				BE35D6B328DD3960005E00BB /* Pokemon_Go.xcdatamodeld */,
@@ -89,6 +86,33 @@
 				BE35D6C228DD3A16005E00BB /* MapKit.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		BE73B40429CB97A7006AA9BE /* View */ = {
+			isa = PBXGroup;
+			children = (
+				BE35D6B028DD3960005E00BB /* Main.storyboard */,
+				BE35D6B828DD3961005E00BB /* LaunchScreen.storyboard */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		BE73B40529CB97B2006AA9BE /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				BE35D6C628DE2749005E00BB /* PokemonAnotacao.swift */,
+				BE35D6C428DDFEB2005E00BB /* CoreDataPokemon.swift */,
+				BE35D6C828DE2FFA005E00BB /* PokeAgendaViewController.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		BE73B40629CB97B9006AA9BE /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				BE35D6AE28DD3960005E00BB /* ViewController.swift */,
+			);
+			path = ViewModel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
