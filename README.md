@@ -30,7 +30,7 @@ This project is a simple clone of the Pokemon Go game, where the player is locat
 ## Screenshots
 
 <p align = "left">
-<img width = "230" src = "https://github.com/lvcassouza/Clone_PokemonGo/blob/main/Pokemon%20Go/Pokemon%20Go/Assets.xcassets/Prints/Sem-T%C3%ADtulo.gif">
+<img width = "230" src = "https://github.com/lvcassouza/Clone_PokemonGo/blob/main/Pokemon%20Go/Pokemon%20Go/Assets.xcassets/Screenshots/screenGif.gif">
 
 <img width = "230" src = "https://github.com/lvcassouza/Clone_PokemonGo/blob/main/Pokemon%20Go/Pokemon%20Go/Assets.xcassets/Prints/Captura%20de%20Tela%202023-03-29%20%C3%A0s%2023.22.23.png">
 
