@@ -26,3 +26,19 @@ This project is a simple clone of the Pokemon Go game, where the player is locat
 3. Commit your changes: `git commit -m feat: My new feature`
 4. Push to your branch: `git push origin my-feature`
 5. Open a Pull Request
+
+## Screenshots
+
+<p align = "left">
+<img width = "275" src = "https://github.com/lvcassouza/Clone_PokemonGo/blob/main/Pokemon%20Go/Pokemon%20Go/Assets.xcassets/Prints/Sem-T%C3%ADtulo.gif">
+
+<img width = "275" src = "https://github.com/lvcassouza/Clone_PokemonGo/blob/main/Pokemon%20Go/Pokemon%20Go/Assets.xcassets/Prints/Captura%20de%20Tela%202023-03-29%20%C3%A0s%2023.22.23.png">
+
+<img width = "275" src = "https://github.com/lvcassouza/Clone_PokemonGo/blob/main/Pokemon%20Go/Pokemon%20Go/Assets.xcassets/Prints/Captura%20de%20Tela%202023-03-29%20%C3%A0s%2023.23.45.png">
+
+<img width = "275" src = "https://github.com/lvcassouza/Clone_PokemonGo/blob/main/Pokemon%20Go/Pokemon%20Go/Assets.xcassets/Prints/Captura%20de%20Tela%202023-03-29%20%C3%A0s%2023.22.07.png">
+
+<img width = "275" src = "https://github.com/lvcassouza/Clone_PokemonGo/blob/main/Pokemon%20Go/Pokemon%20Go/Assets.xcassets/Prints/Captura%20de%20Tela%202023-03-29%20%C3%A0s%2023.21.27.png">
+
+<img width = "275" src = "https://github.com/lvcassouza/Clone_PokemonGo/blob/main/Pokemon%20Go/Pokemon%20Go/Assets.xcassets/Prints/Captura%20de%20Tela%202023-03-29%20%C3%A0s%2023.21.47.png">
+</p> 
